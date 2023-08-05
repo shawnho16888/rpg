@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Ending","order":9,"parentId":0,"scrollX":893.4545454545455,"scrollY":479.4545454545455},
+{"id":2,"expanded":false,"name":"別墅 1F","order":5,"parentId":6,"scrollX":720.8888888888889,"scrollY":473.3333333333333},
+{"id":3,"expanded":false,"name":"道具商店","order":6,"parentId":6,"scrollX":648.8,"scrollY":368.4},
+null,
+{"id":5,"expanded":false,"name":"Overworld","order":1,"parentId":0,"scrollX":728,"scrollY":390.6666666666667},
+{"id":6,"expanded":true,"name":"Normal Town","order":3,"parentId":0,"scrollX":972,"scrollY":1021.5},
+{"id":7,"expanded":true,"name":"Stone Cave","order":2,"parentId":5,"scrollX":973.3333333333334,"scrollY":969.3333333333334},
+{"id":8,"expanded":false,"name":"Inn 1F","order":4,"parentId":6,"scrollX":720.8888888888889,"scrollY":569.3333333333334},
+{"id":9,"expanded":true,"name":"Floating City","order":7,"parentId":0,"scrollX":1425.818181818182,"scrollY":1126.3636363636365},
+{"id":10,"expanded":false,"name":"Demon Castle 3","order":8,"parentId":9,"scrollX":1056,"scrollY":1056}
+]
